@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531188786802",
+    "project_id": "tourmauricehabe-218ab",
+    "storage_bucket": "tourmauricehabe-218ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531188786802:android:610b3d2e79f68e25cc44eb",
+        "android_client_info": {
+          "package_name": "com.example.tour_maurice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVUTY5jN_J5-Y4babY-w6GSpCP-hwM6mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
